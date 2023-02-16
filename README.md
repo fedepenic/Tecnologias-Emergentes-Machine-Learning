@@ -6,10 +6,10 @@
 ### Alumnos: 
 
 
-| Alumno | Padrón | 
+| Alumno | Padrón |
 |---|---|
-| Federico Mariano Penic | 102501 | 
-| Alumno | Padrón | 
-| Alumno | Padrón | 
+| Federico Mariano Penic | 102501 |
+| Tomas Lubertino | 95140 |
+| Alumno | Padrón |
 
 </center>
